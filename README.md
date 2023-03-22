@@ -38,4 +38,4 @@ Il existe une multitude d’algorithmes de clustering qui peuvent être utilisé
 5- Algorithme de C-moyennes floues (Fuzzy C-means clustering; FCM) <br>
    …<br>
 
-Translated with www.DeepL.com/Translator (free version)
+
